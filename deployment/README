@@ -1,0 +1,5 @@
+deploy aiops k8s scripts and setting configs:
+1. install juicefs driver to cluster
+2. deploy juicefs storage class
+3. deploy ai-ops app(backend service)
+4. deploy ai-ops frontend

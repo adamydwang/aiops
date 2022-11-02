@@ -1,0 +1,2 @@
+core layer consists of dataset, model, task, service and executor。
+1. executor: integrate all k8s operations, used by other modules

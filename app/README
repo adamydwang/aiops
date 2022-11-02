@@ -1,0 +1,13 @@
+app layer: restful api micro service, including:
+1. user, group and authorization api service
+   user and group management, and change their storage and computing quota and rights
+2. dataset center api service
+   dataset CURD api service
+3. model center api service
+   model CURD api service
+4. task center api service
+   notebook task and automatic task
+5. service center api service
+   deploy, management tcp service
+
+app layer only interacts with api layer
